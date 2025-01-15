@@ -1,0 +1,1 @@
+This project is a tribute page created as a practice using HTML and CSS. The aim of this project is to strengthen foundational web development skills by building a simple yet elegant webpage dedicated to a person or subject of your choice.
